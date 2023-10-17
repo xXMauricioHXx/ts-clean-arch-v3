@@ -1,0 +1,5 @@
+node_modules
+pubsub-key.json
+bigquery-key.json
+coverage
+dist
